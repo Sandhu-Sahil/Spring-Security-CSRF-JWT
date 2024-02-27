@@ -1,4 +1,4 @@
-package com.in28minutes.learnspringsecurity.resources;
+package com.example.springsecurity.springsecurity.resources;
 
 import java.util.List;
 

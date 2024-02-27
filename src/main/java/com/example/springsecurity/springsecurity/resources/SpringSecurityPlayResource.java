@@ -1,4 +1,4 @@
-package com.in28minutes.learnspringsecurity.resources;
+package com.example.springsecurity.springsecurity.resources;
 
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

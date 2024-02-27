@@ -1,4 +1,4 @@
-package com.in28minutes.learnspringsecurity.basic;
+package com.example.springsecurity.springsecurity.basic;	
 
 import javax.sql.DataSource;
 

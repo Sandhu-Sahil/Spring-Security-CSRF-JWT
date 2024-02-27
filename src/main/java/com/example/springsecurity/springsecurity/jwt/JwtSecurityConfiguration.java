@@ -1,4 +1,4 @@
-package com.in28minutes.learnspringsecurity.jwt;
+package com.example.springsecurity.springsecurity.jwt;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;

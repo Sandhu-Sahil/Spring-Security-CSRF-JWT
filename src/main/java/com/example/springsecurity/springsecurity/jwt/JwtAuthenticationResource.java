@@ -1,4 +1,4 @@
-package com.in28minutes.learnspringsecurity.jwt;
+package com.example.springsecurity.springsecurity.jwt;
 
 import java.time.Instant;
 import java.util.stream.Collectors;

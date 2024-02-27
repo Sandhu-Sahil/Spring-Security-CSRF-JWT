@@ -1,4 +1,4 @@
-package com.in28minutes.learnspringsecurity.resources;
+package com.example.springsecurity.springsecurity.resources;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
